@@ -1,4 +1,4 @@
-﻿Giáo_dục	N
+﻿giáo_dục	N
 cũng	R
 góp_phần	V
 tạo	V
@@ -14,7 +14,7 @@ và	Cc
 cộng_đồng	N
 .	CH
 
-Học_tập	V
+học_tập	V
 là	V
 một	M
 quá_trình	N
@@ -27,7 +27,7 @@ mỗi	L
 cá_nhân	N
 .	CH
 
-Mẹ	N
+mẹ	N
 tôi	P
 thường	R
 dậy	V
@@ -44,7 +44,7 @@ cho	E
 gia_đình	N
 .	CH
 
-Chính_trị	Np
+chính_trị	N
 là	V
 một	M
 chủ_đề	N
@@ -56,7 +56,7 @@ trong	E
 xã_hội	N
 .	CH
 
-Môi_trường	N
+môi_trường	N
 là	V
 một	M
 chủ_đề	N
@@ -69,7 +69,7 @@ thời_đại	N
 hiện_nay	N
 .	CH
 
-Đừng	V
+đừng	V
 quên	V
 mang	V
 áo_khoác	N
@@ -79,7 +79,7 @@ ngoài	N
 nhé	T
 .	CH
 
-Tôi	P
+tôi	P
 theo_dõi	V
 các	L
 tin_tức	N
@@ -92,7 +92,7 @@ ngoài	N
 nước	N
 .	CH
 
-Hạnh_phúc	N
+hạnh_phúc	N
 là	V
 khi	N
 có	V
@@ -105,7 +105,7 @@ công_việc	N
 ổn_định	V
 .	CH
 
-Công_an	Np
+công_an	N
 nhân_dân	N
 là	V
 lực_lượng	N
@@ -119,7 +119,7 @@ và	Cc
 pháp_luật	N
 .	CH
 
-Xử_lý	V
+xử_lý	V
 mọi	L
 tội_phạm	N
 phải	V
@@ -134,7 +134,7 @@ người	N
 tội	N
 .	CH
 
-Việc	N
+việc	N
 tuân_thủ	V
 pháp_luật	N
 không_chỉ	C
@@ -152,7 +152,7 @@ của	E
 công_dân	N
 .	CH
 
-Cuộc_đời	N
+cuộc_đời	N
 là	V
 một	M
 cuộc	N
@@ -165,7 +165,7 @@ và	Cc
 thú_vị	A
 .	CH
 
-Bạn	N
+bạn	N
 có	V
 biết	V
 đường	N
@@ -176,7 +176,7 @@ không	R
 đấy	P
 .	CH
 
-Hệ_thống	N
+hệ_thống	N
 giáo_dục	N
 của	E
 Việt_Nam	Np
@@ -193,7 +193,7 @@ và	Cc
 sau_đại_học	N
 .	CH
 
-Chúng_tôi	P
+chúng_tôi	P
 mong_muốn	V
 chính_quyền	N
 các	L
@@ -205,7 +205,7 @@ vấn_đề	N
 này	P
 .	CH
 
-Giáo_dục	N
+giáo_dục	N
 là	V
 nguồn	N
 cảm_hứng	N
@@ -219,7 +219,7 @@ trong	E
 cuộc_sống	N
 .	CH
 
-Chúng_ta	P
+chúng_ta	P
 nên	C
 tập_thể_dục	V
 thường_xuyên	A
@@ -230,7 +230,7 @@ sưc	V
 khoẻ	A
 .	CH
 
-Tin_tức	Np
+tin_tức	N
 thể_thao	N
 là	V
 một	M
@@ -245,7 +245,7 @@ người	N
 quan_tâm	V
 .	CH
 
-Bóng_đá	N
+bóng_đá	N
 là	V
 môn	N
 thể_thao	N
@@ -255,7 +255,7 @@ nhiều	A
 nhất	A
 .	CH
 
-Các	Np
+các	L
 vận_động_viên	N
 Việt_Nam	Np
 đã	R
@@ -271,7 +271,7 @@ nhiều	A
 huy_chương	N
 .	CH
 
-Thời_tiết	Np
+thời_tiết	N
 có	V
 liên_quan	V
 đến	V
@@ -282,7 +282,7 @@ của	E
 con_người	N
 .	CH
 
-Sinh_viên	N
+sinh_viên	N
 có	V
 nhiều	A
 hoạt_động	V
@@ -296,7 +296,7 @@ và	Cc
 kiến_thức	N
 .	CH
 
-Chúng_ta	P
+chúng_ta	P
 cần	V
 có	V
 ý_thức	N
@@ -309,7 +309,7 @@ hoạt_động	V
 xã_hội	N
 .	CH
 
-Người	N
+người	N
 thành_công	V
 thường	R
 dậy	V
@@ -321,7 +321,7 @@ thói_quen	N
 sách	N
 .	CH
 
-Điện	Np
+điện	N
 gặp	V
 sự_cố	N
 ngay	T
@@ -339,7 +339,7 @@ trong	E
 nắng_nóng	A
 .	CH
 
-Trí_tuệ_nhân_tạo	Np
+trí_tuệ_nhân_tạo	N
 là	V
 ngành	N
 khoa_học	N
@@ -356,7 +356,7 @@ máy_tính	N
 thông_minh	A
 .	CH
 
-Mục_đích	N
+mục_đích	N
 của	E
 việc	N
 tạo	V
@@ -392,7 +392,7 @@ thời_gian	N
 dài	A
 .	CH
 
-Chính_phủ	N
+chính_phủ	N
 giao	V
 Bộ	Np
 Ngoại_giao	Np
@@ -414,7 +414,7 @@ có	V
 du_lịch	V
 .	CH
 
-Lãnh_đạo	Np
+lãnh_đạo	N
 một	M
 công_ty	N
 du_lịch	V
@@ -429,7 +429,7 @@ dễ_dàng	A
 hơn	A
 .	CH
 
-Ở	E
+ở	E
 mặt_bằng	N
 chung	A
 ,	CH
@@ -447,7 +447,7 @@ hai	M
 phái	N
 .	CH
 
-Đó	P
+đó	P
 là	V
 cơ_sở	N
 để	E
@@ -470,7 +470,7 @@ trong	E
 cuộc_sống	N
 .	CH
 
-Theo	V
+theo	V
 đơn_vị	N
 xuất_bản	V
 cuốn	V
@@ -502,7 +502,7 @@ ngoài	N
 nước	N
 .	CH
 
-Đây	P
+đây	P
 là	V
 một	M
 tài_liệu	N
@@ -532,7 +532,7 @@ lên	V
 chủ_nghĩa_xã_hội	N
 .	CH
 
-Đề	Np
+đề	V
 thi	V
 tốt_nghiệp	V
 trung_học_phổ_thông	N
@@ -551,7 +551,7 @@ Nhà_nước	N
 Tối_mật	Np
 .	CH
 
-Những	L
+những	L
 cơn	Nc
 bão	N
 này	P
@@ -563,7 +563,7 @@ nhẹ	A
 cực_đoan	A
 .	CH
 
-Cây	N
+cây	N
 quyết_định	V
 là	V
 một	M
@@ -582,7 +582,7 @@ của	E
 chúng	P
 .	CH
 
-Cô	N
+cô	N
 phó	Z
 bí_thư	N
 chi_đoàn	N
@@ -607,7 +607,7 @@ các	L
 phòng_ban	N
 .	CH
 
-Mỗi	M
+mỗi	L
 tháng	N
 ,	CH
 các	L
@@ -630,8 +630,9 @@ thực_tế	N
 công_việc	N
 .	CH
 
-Văn_học	N
-Việt_Nam	Np
+văn_học	N
+việt	V
+Nam	Np
 luôn	R
 là	V
 thể_loại	N
@@ -646,11 +647,12 @@ nhất_định	A
 đối_với	E
 bất_kỳ	A
 con_người	N
-Việt_Nam	Np
+việt	V
+Nam	Np
 nào	P
 .	CH
 
-Trong	E
+trong	E
 khi	N
 đó	P
 truyện_ngắn	N
@@ -675,7 +677,7 @@ khẳng_định	V
 tài_năng	N
 .	CH
 
-Ông	N
+ông	N
 là	V
 một	M
 trong	E
@@ -694,7 +696,7 @@ lịch_sử	N
 điện_ảnh	N
 .	CH
 
-Thuyền	N
+thuyền	N
 đến	V
 đầu	N
 cầu	N
@@ -703,7 +705,7 @@ sẽ	R
 thẳng	A
 .	CH
 
-Đừng	V
+đừng	V
 để	E
 mọi	L
 thứ	N
@@ -718,7 +720,7 @@ quá	R
 muộn_màng	A
 .	CH
 
-Hãy	R
+hãy	R
 nhớ	V
 rằng	C
 ,	CH
@@ -744,7 +746,7 @@ như_thế	X
 ?	CH
 ”	CH
 
-Một	M
+một	M
 buổi	N
 chiều	N
 nọ	P
@@ -787,7 +789,7 @@ mình	P
 .	CH
 ”	CH
 
-Mỗi	M
+mỗi	L
 người	N
 có	V
 một_cách	N
@@ -802,7 +804,7 @@ hay	C
 hạnh_phúc	N
 .	CH
 
-Lúc	N
+lúc	N
 này	P
 chất	N
 dinh_dưỡng	N
@@ -818,7 +820,7 @@ chết	V
 mòn	V
 .	CH
 
-Khoảng	N
+khoảng	N
 thời_gian	N
 này	P
 đủ	A
@@ -839,7 +841,7 @@ cơ_sở_hạ_tầng	N
 quan_trọng	A
 .	CH
 
-Đám	N
+đám	Nc
 cháy	V
 ngầm	A
 bên	N
@@ -865,11 +867,12 @@ mỗi	L
 năm	N
 .	CH
 
-Tàu_vũ_trụ	Np
+tàu_vũ_trụ	N
 này	P
 quay	V
 về	E
-Trái_Đất	N
+trái	A
+Đất	N
 sáng	N
 ngày	N
 8/5	M
@@ -895,7 +898,7 @@ gần	A
 năm	N
 .	CH
 
-Nếu	C
+nếu	C
 đặt	V
 một	M
 chai	N
@@ -946,7 +949,7 @@ trồng	V
 thực_phẩm	N
 "	CH
 
-Giải_pháp	N
+giải_pháp	N
 sản_xuất	V
 hạt_giống	N
 nảy	V
@@ -977,7 +980,7 @@ Khoa_học	Np
 2023	M
 .	CH
 
-Con	Np
+con	N
 thú	N
 ăn	V
 kiến	N
@@ -1001,7 +1004,7 @@ với	E
 nắng	N
 .	CH
 
-Bọt_biển	Np
+bọt_biển	N
 (	CH
 Porifera	Np
 )	CH
@@ -1032,7 +1035,8 @@ hệ	N
 thần_kinh	N
 .	CH
 
-James_Weiss	Np
+james	Nb
+Weiss	Np
 ,	CH
 nhà	N
 hiển	V
@@ -1056,7 +1060,7 @@ của	E
 ông	N
 .	CH
 
-Nghiên_cứu	V
+nghiên_cứu	V
 mới	A
 dựa	V
 trên	E
@@ -1080,7 +1084,7 @@ trên	E
 sao	P
 .	CH
 
-Toà	Np
+toà	N
 nhà	N
 gỗ	N
 ở	E
@@ -1102,7 +1106,7 @@ hơn	A
 nhu_cầu	N
 .	CH
 
-Vệ_tinh	Np
+vệ_tinh	N
 Sentinel-6	Np
 Michael_Freilich	Np
 ghi_nhận	V
@@ -1125,7 +1129,7 @@ của	E
 El_Niño	Np
 .	CH
 
-Thiên_thạch	Np
+thiên_thạch	N
 ở	E
 hẻm	N
 núi	N
@@ -1151,7 +1155,7 @@ nghìn	M
 năm	N
 .	CH
 
-Trong	E
+trong	E
 một_số	L
 mảng	N
 quan_trọng	A
@@ -1160,7 +1164,8 @@ Mỹ	Np
 không_chỉ	C
 vượt	V
 xa	A
-Trung_Quốc	Np
+_trung	V
+Quốc	Np
 mà_còn	C
 vượt	V
 tất_cả	P
@@ -1175,7 +1180,7 @@ cộng	V
 lại	R
 .	CH
 
-Các	Np
+các	L
 nhà	N
 điểu_học	N
 bất_ngờ	A
@@ -1196,7 +1201,7 @@ nhau	N
 trứng	N
 .	CH
 
-Hiện_tượng	N
+hiện_tượng	N
 gió	N
 thổi	V
 vào	E
@@ -1221,7 +1226,7 @@ hôm	N
 16/5	M
 .	CH
 
-Như_vậy	C
+như_vậy	X
 ,	CH
 với	E
 mỗi	L
@@ -1236,7 +1241,7 @@ hai	M
 lần	N
 .	CH
 
-Ghi_chép	V
+ghi_chép	V
 sớm	A
 nhất	A
 về	E
@@ -1254,7 +1259,7 @@ Trung_Đông	Np
 cổ_đại	N
 .	CH
 
-Nhóm	N
+nhóm	N
 nghiên_cứu	V
 Trung_Quốc	Np
 hôm	N
@@ -1279,7 +1284,7 @@ trên	E
 chuột	N
 .	CH
 
-Một	M
+một	M
 con	N
 cá_mập	N
 ở	E
@@ -1336,7 +1341,7 @@ giai_đoạn	N
 2020	M
 .	CH
 
-Đầu	N
+đầu	N
 bên	N
 kia	P
 Thái_Bình	N
@@ -1347,7 +1352,7 @@ với	E
 hạn_hán	N
 .	CH
 
-Vách	Np
+vách	N
 đá	V
 Smoking_Hills	Np
 bốc	V
@@ -1370,7 +1375,7 @@ trở_nên	V
 độc_hại	V
 .	CH
 
-Công_ty	N
+công_ty	N
 kiến_trúc	V
 Trung_Quốc	Np
 EID	Np
@@ -1386,10 +1391,10 @@ Tân_Giang	Np
 ,	CH
 thành_phố	N
 Hàng	N
-_Châu	Np
+_châu	N
 .	CH
 
-Các	Np
+các	L
 nhà_khoa_học	N
 ước_tính	V
 55	M
@@ -1404,10 +1409,10 @@ về	E
 đối_lưu	V
 .	CH
 
-Theo	V
-Tổ_chức	V
+theo	V
+tổ_chức	V
 Y_tế	Np
-Thế_giới	Np
+thế_giới	N
 (	CH
 WHO	Np
 )	CH
