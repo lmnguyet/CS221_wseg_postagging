@@ -1,4 +1,4 @@
-﻿Giáo_dục
+﻿giáo_dục
 cũng
 góp_phần
 tạo
@@ -14,7 +14,7 @@ và
 cộng_đồng
 .
 
-Học_tập
+học_tập
 là
 một
 quá_trình
@@ -27,7 +27,7 @@ mỗi
 cá_nhân
 .
 
-Mẹ
+mẹ
 tôi
 thường
 dậy
@@ -44,7 +44,7 @@ cho
 gia_đình
 .
 
-Chính_trị
+chính_trị
 là
 một
 chủ_đề
@@ -56,7 +56,7 @@ trong
 xã_hội
 .
 
-Môi_trường
+môi_trường
 là
 một
 chủ_đề
@@ -69,7 +69,7 @@ thời_đại
 hiện_nay
 .
 
-Đừng
+đừng
 quên
 mang
 áo_khoác
@@ -79,7 +79,7 @@ ngoài
 nhé
 .
 
-Tôi
+tôi
 theo_dõi
 các
 tin_tức
@@ -92,7 +92,7 @@ ngoài
 nước
 .
 
-Hạnh_phúc
+hạnh_phúc
 là
 khi
 có
@@ -105,7 +105,7 @@ công_việc
 ổn_định
 .
 
-Công_an
+công_an
 nhân_dân
 là
 lực_lượng
@@ -119,7 +119,7 @@ và
 pháp_luật
 .
 
-Xử_lý
+xử_lý
 mọi
 tội_phạm
 phải
@@ -134,7 +134,7 @@ người
 tội
 .
 
-Việc
+việc
 tuân_thủ
 pháp_luật
 không_chỉ
@@ -152,7 +152,7 @@ của
 công_dân
 .
 
-Cuộc_đời
+cuộc_đời
 là
 một
 cuộc
@@ -165,7 +165,7 @@ và
 thú_vị
 .
 
-Bạn
+bạn
 có
 biết
 đường
@@ -176,7 +176,7 @@ không
 đấy
 .
 
-Hệ_thống
+hệ_thống
 giáo_dục
 của
 Việt_Nam
@@ -193,7 +193,7 @@ và
 sau_đại_học
 .
 
-Chúng_tôi
+chúng_tôi
 mong_muốn
 chính_quyền
 các
@@ -205,7 +205,7 @@ vấn_đề
 này
 .
 
-Giáo_dục
+giáo_dục
 là
 nguồn
 cảm_hứng
@@ -219,7 +219,7 @@ trong
 cuộc_sống
 .
 
-Chúng_ta
+chúng_ta
 nên
 tập_thể_dục
 thường_xuyên
@@ -230,7 +230,7 @@ sưc
 khoẻ
 .
 
-Tin_tức
+tin_tức
 thể_thao
 là
 một
@@ -245,7 +245,7 @@ người
 quan_tâm
 .
 
-Bóng_đá
+bóng_đá
 là
 môn
 thể_thao
@@ -255,7 +255,7 @@ nhiều
 nhất
 .
 
-Các
+các
 vận_động_viên
 Việt_Nam
 đã
@@ -271,7 +271,7 @@ nhiều
 huy_chương
 .
 
-Thời_tiết
+thời_tiết
 có
 liên_quan
 đến
@@ -282,7 +282,7 @@ của
 con_người
 .
 
-Sinh_viên
+sinh_viên
 có
 nhiều
 hoạt_động
@@ -296,7 +296,7 @@ và
 kiến_thức
 .
 
-Chúng_ta
+chúng_ta
 cần
 có
 ý_thức
@@ -309,7 +309,7 @@ hoạt_động
 xã_hội
 .
 
-Người
+người
 thành_công
 thường
 dậy
@@ -321,7 +321,7 @@ thói_quen
 sách
 .
 
-Điện
+điện
 gặp
 sự_cố
 ngay
@@ -339,7 +339,7 @@ trong
 nắng_nóng
 .
 
-Trí_tuệ_nhân_tạo
+trí_tuệ_nhân_tạo
 là
 ngành
 khoa_học
@@ -356,7 +356,7 @@ máy_tính
 thông_minh
 .
 
-Mục_đích
+mục_đích
 của
 việc
 tạo
@@ -392,7 +392,7 @@ thời_gian
 dài
 .
 
-Chính_phủ
+chính_phủ
 giao
 Bộ
 Ngoại_giao
@@ -414,7 +414,7 @@ có
 du_lịch
 .
 
-Lãnh_đạo
+lãnh_đạo
 một
 công_ty
 du_lịch
@@ -429,7 +429,7 @@ dễ_dàng
 hơn
 .
 
-Ở
+ở
 mặt_bằng
 chung
 ,
@@ -447,7 +447,7 @@ hai
 phái
 .
 
-Đó
+đó
 là
 cơ_sở
 để
@@ -470,7 +470,7 @@ trong
 cuộc_sống
 .
 
-Theo
+theo
 đơn_vị
 xuất_bản
 cuốn
@@ -502,7 +502,7 @@ ngoài
 nước
 .
 
-Đây
+đây
 là
 một
 tài_liệu
@@ -532,7 +532,7 @@ lên
 chủ_nghĩa_xã_hội
 .
 
-Đề
+đề
 thi
 tốt_nghiệp
 trung_học_phổ_thông
@@ -551,7 +551,7 @@ Nhà_nước
 Tối_mật
 .
 
-Những
+những
 cơn
 bão
 này
@@ -563,7 +563,7 @@ nhẹ
 cực_đoan
 .
 
-Cây
+cây
 quyết_định
 là
 một
@@ -582,7 +582,7 @@ của
 chúng
 .
 
-Cô
+cô
 phó
 bí_thư
 chi_đoàn
@@ -607,7 +607,7 @@ các
 phòng_ban
 .
 
-Mỗi
+mỗi
 tháng
 ,
 các
@@ -630,8 +630,9 @@ thực_tế
 công_việc
 .
 
-Văn_học
-Việt_Nam
+văn_học
+việt
+Nam
 luôn
 là
 thể_loại
@@ -646,11 +647,12 @@ nhất_định
 đối_với
 bất_kỳ
 con_người
-Việt_Nam
+việt
+Nam
 nào
 .
 
-Trong
+trong
 khi
 đó
 truyện_ngắn
@@ -675,7 +677,7 @@ khẳng_định
 tài_năng
 .
 
-Ông
+ông
 là
 một
 trong
@@ -694,7 +696,7 @@ lịch_sử
 điện_ảnh
 .
 
-Thuyền
+thuyền
 đến
 đầu
 cầu
@@ -703,7 +705,7 @@ sẽ
 thẳng
 .
 
-Đừng
+đừng
 để
 mọi
 thứ
@@ -718,7 +720,7 @@ quá
 muộn_màng
 .
 
-Hãy
+hãy
 nhớ
 rằng
 ,
@@ -744,7 +746,7 @@ như_thế
 ?
 ”
 
-Một
+một
 buổi
 chiều
 nọ
@@ -787,7 +789,7 @@ mình
 .
 ”
 
-Mỗi
+mỗi
 người
 có
 một_cách
@@ -802,7 +804,7 @@ hay
 hạnh_phúc
 .
 
-Lúc
+lúc
 này
 chất
 dinh_dưỡng
@@ -818,7 +820,7 @@ chết
 mòn
 .
 
-Khoảng
+khoảng
 thời_gian
 này
 đủ
@@ -839,7 +841,7 @@ cơ_sở_hạ_tầng
 quan_trọng
 .
 
-Đám
+đám
 cháy
 ngầm
 bên
@@ -865,11 +867,12 @@ mỗi
 năm
 .
 
-Tàu_vũ_trụ
+tàu_vũ_trụ
 này
 quay
 về
-Trái_Đất
+trái
+Đất
 sáng
 ngày
 8/5
@@ -895,7 +898,7 @@ gần
 năm
 .
 
-Nếu
+nếu
 đặt
 một
 chai
@@ -946,7 +949,7 @@ trồng
 thực_phẩm
 "
 
-Giải_pháp
+giải_pháp
 sản_xuất
 hạt_giống
 nảy
@@ -977,7 +980,7 @@ Khoa_học
 2023
 .
 
-Con
+con
 thú
 ăn
 kiến
@@ -1001,7 +1004,7 @@ với
 nắng
 .
 
-Bọt_biển
+bọt_biển
 (
 Porifera
 )
@@ -1032,7 +1035,8 @@ hệ
 thần_kinh
 .
 
-James_Weiss
+james
+Weiss
 ,
 nhà
 hiển
@@ -1056,7 +1060,7 @@ của
 ông
 .
 
-Nghiên_cứu
+nghiên_cứu
 mới
 dựa
 trên
@@ -1080,7 +1084,7 @@ trên
 sao_Hoả
 .
 
-Toà
+toà
 nhà
 gỗ
 ở
@@ -1102,7 +1106,7 @@ hơn
 nhu_cầu
 .
 
-Vệ_tinh
+vệ_tinh
 Sentinel-6
 Michael_Freilich
 ghi_nhận
@@ -1125,7 +1129,7 @@ của
 El_Niño
 .
 
-Thiên_thạch
+thiên_thạch
 ở
 hẻm
 núi
@@ -1151,7 +1155,7 @@ nghìn
 năm
 .
 
-Trong
+trong
 một_số
 mảng
 quan_trọng
@@ -1160,7 +1164,8 @@ Mỹ
 không_chỉ
 vượt
 xa
-Trung_Quốc
+trung
+Quốc
 mà_còn
 vượt
 tất_cả
@@ -1175,7 +1180,7 @@ cộng
 lại
 .
 
-Các
+các
 nhà
 điểu_học
 bất_ngờ
@@ -1196,7 +1201,7 @@ nhau
 trứng
 .
 
-Hiện_tượng
+hiện_tượng
 gió
 thổi
 vào
@@ -1221,7 +1226,7 @@ hôm
 16/5
 .
 
-Như_vậy
+như_vậy
 ,
 với
 mỗi
@@ -1236,7 +1241,7 @@ hai
 lần
 .
 
-Ghi_chép
+ghi_chép
 sớm
 nhất
 về
@@ -1254,7 +1259,7 @@ Trung_Đông
 cổ_đại
 .
 
-Nhóm
+nhóm
 nghiên_cứu
 Trung_Quốc
 hôm
@@ -1279,7 +1284,7 @@ trên
 chuột
 .
 
-Một
+một
 con
 cá_mập
 ở
@@ -1336,7 +1341,7 @@ giai_đoạn
 2020
 .
 
-Đầu
+đầu
 bên
 kia
 Thái_Bình_Dương
@@ -1347,7 +1352,7 @@ với
 hạn_hán
 .
 
-Vách
+vách
 đá
 Smoking_Hills
 bốc
@@ -1370,7 +1375,7 @@ trở_nên
 độc_hại
 .
 
-Công_ty
+công_ty
 kiến_trúc
 Trung_Quốc
 EID
@@ -1386,10 +1391,10 @@ Tân_Giang
 ,
 thành_phố
 Hàng
-Châu
+châu
 .
 
-Các
+các
 nhà_khoa_học
 ước_tính
 55
@@ -1404,10 +1409,10 @@ về
 đối_lưu
 .
 
-Theo
-Tổ_chức
+theo
+tổ_chức
 Y_tế
-Thế_giới
+thế_giới
 (
 WHO
 )
